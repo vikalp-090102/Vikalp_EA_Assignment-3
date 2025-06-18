@@ -2,12 +2,12 @@
 # Assignment Submission
 
 **Author**: Vikalp Srivasatva  
-**File**: `assignment.ipynb`  
+**File**: `Vikalp_ASSIGNMENT_3_CODES.ipynb`  
 **Platform**: Designed to run directly on Google Colab or Kaggle (no setup needed)
 
 ---
 
-## 📘 Question-1: Physics-Informed Neural Network (PINN) for Cardiac Activation Mapping
+##  Question-1: Physics-Informed Neural Network (PINN) for Cardiac Activation Mapping
 
 This question involves predicting cardiac activation times using sparse spatial samples. The problem is modeled with an Eikonal equation.
 
@@ -20,7 +20,7 @@ Each model was trained on just 30 Latin Hypercube sampled points, and evaluated 
 
 ---
 
-## 📘 Question-2: Neural ODE vs. Feedforward Neural Network on a Classification Task
+##  Question-2: Neural ODE vs. Feedforward Neural Network on a Classification Task
 
 This question compares two models on the classic `make_moons` dataset:
 
@@ -31,7 +31,7 @@ The models are trained and evaluated on accuracy and decision boundaries. The ex
 
 ---
 
-## ▶️ How to Run the Code
+## ▶ How to Run the Code
 
 No setup is needed! Just follow these steps:
 
@@ -42,7 +42,7 @@ No setup is needed! Just follow these steps:
 
 ---
 
-## ✅ Requirements
+##  Requirements
 
 The notebook automatically installs or imports the following packages:
 - `numpy`
