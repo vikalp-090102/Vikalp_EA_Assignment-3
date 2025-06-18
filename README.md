@@ -31,7 +31,7 @@ The models are trained and evaluated on accuracy and decision boundaries. The ex
 
 ---
 
-## ▶ How to Run the Code
+##  How to Run the Code
 
 No setup is needed! Just follow these steps:
 
