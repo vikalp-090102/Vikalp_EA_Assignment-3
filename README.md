@@ -1,7 +1,7 @@
 # Vikalp_EA_Assignment-3
 # Assignment Submission
 
-**Author**: Your Full Name  
+**Author**: Vikalp Srivasatva  
 **File**: `assignment.ipynb`  
 **Platform**: Designed to run directly on Google Colab or Kaggle (no setup needed)
 
